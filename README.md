@@ -12,7 +12,7 @@
 ## Curriculum
 > 이론수업을 통해 원리를 이해하고, 실습수업을 통해 적용 및 응용력을 기르는데 초점을 맞추어 강의를 진행합니다. 이론수업은 텍스트 마이닝 기본부터 머신러닝과 딥러닝을 활용한 고급 텍스트 마이닝기법까지 다루며, 실습수업은 이론수업에서 배운 내용을 Python 프로그래밍 언어를 활용하여 실제 적용해볼 수 있도록 진행합니다. 실습은 Python 기본문법을 반복적으로 다루고, 완성된 코드에 핵심 포인트를 수정하는 방식으로 진행하여 프로그래밍에 익숙하지 않아도 무리가 없도록 진행합니다. 과제는 주로 실무사례 케이스 스터디를 중심으로 진행되며, 학생들 간의 소통을 통한 학습효과 증진을 위해 그룹 텀프로젝트를 실시합니다.
 
-> This course will cover t he major techniques for mining and analyzing text data to extract potentially useful patterns and relationships.
+> This course will cover the major techniques for mining and analyzing text data to extract potentially useful patterns and relationships.
 
 #### WEEK 01. 텍스트 마이닝 개요
 - 텍스트 마이닝 기본개념 및 유형
