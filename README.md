@@ -25,51 +25,51 @@
 - Python 3.7 & Jupyter Notebook
 - 실습  
   > _W01-1. 실습환경: Python 3.7 & Jupyter Notebook & Google Colaboratory_  
-  > _W01-2. 텍스트 데이터를 다루기 위한 Python: 기본문법 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/W01-2_text-mining-for-practice_python-basic.ipynb)_  
-  > _W01-3. 텍스트 데이터를 다루기 위한 Python: 자료구조 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/W01-3_text-mining-for-practice_python-data-structure.ipynb)_  
-  > _W01-4. 텍스트 데이터를 다루기 위한 Python: 반복문과 조건문 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/W01-4_text-mining-for-practice_python-conditional%26loop.ipynb)_  
-  > _Assignment 01: 소설에서 가장 많이 쓰이는 단어 알아보기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/ASSIGNMENT01_novel-word-count.ipynb)_ 
+  > _W01-2. 텍스트 데이터를 다루기 위한 Python: 기본문법 [(Colab)]()_  
+  > _W01-3. 텍스트 데이터를 다루기 위한 Python: 자료구조 [(Colab)]()_  
+  > _W01-4. 텍스트 데이터를 다루기 위한 Python: 반복문과 조건문 [(Colab)]()_  
+  > _Assignment 01: 소설에서 가장 많이 쓰이는 단어 알아보기 [(Colab)]()_ 
 
 #### WEEK 02. 텍스트 마이닝 사례연구
 - 텍스트 마이닝 연구/실무 적용사례
 - 텍스트 데이터를 위한 Python 프로그래밍
 - 과제: 텀프로젝트 조편성
 - 실습  
-  > _W02-1. 텍스트 데이터를 다루기 위한 Python: 함수와 파일입출력 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-1_text-mining-for-practice_python-function%26file.ipynb)_  
-  > _W02-2. 텍스트 데이터를 다루기 위한 Python: 패턴인식과 정규식 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-2_text-mining-for-practice_python-regex.ipynb)_  
-  > _Assignment 02-1: 트위터에서 전화번호 추출하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/ASSIGNMENT02-1_twitter-phone-number.ipynb)_  
-  > _Assignment 02-2: 인스타그램 게시글에서 해시태그 가져오기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/ASSIGNMENT02-2_instagram-hashtag.ipynb)_  
+  > _W02-1. 텍스트 데이터를 다루기 위한 Python: 함수와 파일입출력 [(Colab)]()_  
+  > _W02-2. 텍스트 데이터를 다루기 위한 Python: 패턴인식과 정규식 [(Colab)]()_  
+  > _Assignment 02-1: 트위터에서 전화번호 추출하기 [(Colab)]()_  
+  > _Assignment 02-2: 인스타그램 게시글에서 해시태그 가져오기 [(Colab)]()_  
 
 #### WEEK 03. 텍스트 데이터 수집 1
 - 텍스트 데이터 유형 및 집방법
 - 웹 스크래핑 기초
 - 실습  
-  > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/W03-1_text-mining-for-practice_python-crawling-intro.ipynb)_  
-  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/W03-2_text-mining-for-practice_python-crawling-practice-1.ipynb)_  
-  > _Assignment 03: 대량의 영화댓글 수집하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/ASSIGNMENT01_movie-comment-crawler.ipynb)_  
+  > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)]()_  
+  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)]()_  
+  > _Assignment 03: 대량의 영화댓글 수집하기 [(Colab)]()_  
   
 #### WEEK 04. 텍스트 데이터 수집 2
 - 웹 스크래핑 자동화 및 실전 활용법
 - 텍스트 데이터 핸들링
 - 과제: 텀프로젝트 기획서
 - 실습  
-  > _W04-1. 동적페이지 수집하기: 카페 게시글 [(Jupyter)](https://github.com/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-1_text-mining-for-practice_python-crawling-practice-2.ipynb)_  
-  > _W04-2. 동적페이지 수집하기: 해시태그 [(Jupyter)](https://github.com/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-2_text-mining-for-practice_python-crawling-practice-3.ipynb)_  
+  > _W04-1. 동적페이지 수집하기: 카페 게시글 [(Jupyter)]()_  
+  > _W04-2. 동적페이지 수집하기: 해시태그 [(Jupyter)]()_  
   
 #### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
 - KoNLPy & NLTK & TEANAPS
 - 실습  
-  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-1_text-mining-for-practice_python-korean-nlp.ipynb)_  
-  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-2_text-mining-for-practice_python-english-nlp.ipynb)_
+  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy [(Colab)]()_  
+  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK [(Colab)]()_
 
 #### WEEK 06. 단어의 가중치를 표현하는 방법
 - 단어빈도와 TF-IDF
 - 단어 네트워크와 중심성
 - 실습  
-  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-1_text-mining-for-practice_python-tf-idf.ipynb)_  
-  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-2_text-mining-for-practice_python-wordcloud.ipynb)_  
-  > _W06-3. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-1_text-mining-for-practice_python-co-word.ipynb)_  
+  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)]()_  
+  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기 [(Colab)]()_  
+  > _W06-3. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)]()_  
 
 #### WEEK 07. 문서를 벡터로 표현하는 방법
 - 단어 단위 임베딩
@@ -89,8 +89,8 @@
 - 텍스트 유사도와 군집화
 - 토픽모델링
 - 실습  
-  > _W09-1. 뉴스기사 군집화로 이슈 모아보기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-1_text-mining-for-practice_python-clustering.ipynb)_  
-  > _W09-2. 뉴스기사에서 주제 찾아내기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08_2_text_mining_for_practice_python_topic_modeling.ipynb)_  
+  > _W09-1. 뉴스기사 군집화로 이슈 모아보기 [(Colab)]()_  
+  > _W09-2. 뉴스기사에서 주제 찾아내기 [(Colab)]()_  
   
 #### WEEK 10. 텍스트 분석 방법론 2
 - CNN, RNN을 활용한 텍스트 데이터 분류
@@ -102,7 +102,7 @@
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _W11-1. 문서요약 알고리즘 활용하기: TextRank, LSA [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_09/W09-1_text-mining-for-practice_python-summarization.ipynb)_  
+  > _W11-1. 문서요약 알고리즘 활용하기: TextRank, LSA [(Colab)]()_  
   > _W11-2. 키워드추출 알고리즘 활용하기: PKEA, RKEA_
 
 #### WEEK 12. 텍스트 데이터를 활용한 예측 모델링
