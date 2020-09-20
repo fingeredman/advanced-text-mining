@@ -41,7 +41,8 @@
 - 웹 스크래핑 기초
 - 머신러닝 기초
 - 실습  
-  > _TBU_  
+  > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-1_advanced-text-mining_python-crawling-intro.ipynb)_  
+  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-2_advanced-text-mining_python-crawling-practice-1.ipynb)_  
   
 #### WEEK 04. 텍스트 데이터 수집 2
 - 웹 스크래핑 자동화 및 실전 활용법
