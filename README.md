@@ -49,7 +49,8 @@
 - 텍스트 데이터 핸들링
 - 과제: 텀프로젝트 기획서 제출
 - 실습  
-  > _TBU_  
+  > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글 [(Jupyter)](https://github.com/fingeredman/advanced-text-mining/blob/master/practice-note/week_04/W04-1_advanced-text-mining_python-crawling-practice-2.ipynb)_  
+  > _W04-2. 동적페이지 수집하기: 인스타그램 해시태그 [(Jupyter)](https://github.com/fingeredman/advanced-text-mining/blob/master/practice-note/week_04/W04-2_advanced-text-mining_python-crawling-practice-3.ipynb)_    
   
 #### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
