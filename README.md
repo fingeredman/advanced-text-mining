@@ -58,6 +58,7 @@
 - 실습  
   > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-1_advanced-text-mining_python-korean-nlp.ipynb)_  
   > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-2_advanced-text-mining_python-english-nlp.ipynb)_  
+  > _W05-3. 개체명인식 수행하기: TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-3_advanced-text-mining_python-ner.ipynb)
 
 #### WEEK 06. 단어의 가중치를 표현하는 방법
 - 단어빈도와 TF-IDF
