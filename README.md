@@ -63,8 +63,9 @@
 - 단어빈도와 TF-IDF
 - 단어 네트워크와 중심성
 - 실습  
-  > _TBU_  
-
+  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-1_advanced-text-mining_python-tf-idf.ipynb)_  
+  > _W06-2. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-2_advanced-text-mining_python-co-word.ipynb)_  
+  
 #### WEEK 07. 문서를 벡터로 표현하는 방법
 - 단어 단위 임베딩
 - 문장/문서 단위 임베딩
