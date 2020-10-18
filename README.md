@@ -72,7 +72,7 @@
 - 문장/문서 단위 임베딩
 - 실습  
   > _W07-1. TEANAPS를 활용해 데이터 시각화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_07/W07-1_advanced-text-mining_python-visualization.ipynb)_  
-  > _W07-2. 단어 임베딩 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_07/W07-2_advanced-text-mining_python-w2v.ipynb)_  
+  > _W07-2. 단어 임베딩 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_07/W07-2_advanced-text-mining_python-w2v.ipynb) [(Model Download)](https://drive.google.com/drive/folders/1r_rLr7nk465nz9RVWFW0Mouwws6Aa65k?usp=sharing)_  
 
 #### WEEK 08. 텍스트 분석을 위한 딥러닝
 - 시퀀스 모델링: 시퀀스 레이블링(CRF), RNN, LSTM
