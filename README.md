@@ -79,13 +79,15 @@
 - 언어 모델링: Seq2Seq, Transformer 네트워크
 - 과제: 보고서
 - 실습  
-  > _TBU_  
-
+  > _W08-1. TEANAPS 자연어처리 API 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_08/W08-1_advanced-text-mining_teanaps-nlp-api.ipynb)_  
+  > _W08-2. TEANAPS를 활용한 자연어처리 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_08/W08-2_advanced-text-mining_pre-processing.ipynb)_  
+  
 #### WEEK 09. 텍스트 분석 방법론 1
 - CNN, RNN을 활용한 텍스트 데이터 분류
 - Transformer 모델 기반 텍스트 감성분석
 - 실습  
-  > _TBU_  
+  > _W09-1. 문장의 의도 분류하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-1_advanced-text-mining_text-classification.ipynb)_  
+  > _W08-2. 감성분석 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-2_advanced-text-mining_sentiment-analysis.ipynb)_  
   
 #### WEEK 10. 텍스트 분석 방법론 2
 - 텍스트 유사도와 군집화
