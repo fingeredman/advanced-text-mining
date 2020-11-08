@@ -87,14 +87,14 @@
 - Transformer 모델 기반 텍스트 감성분석
 - 실습  
   > _W09-1. 문장의 의도 분류하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-1_advanced-text-mining_text-classification.ipynb)_  
-  > _W08-2. 감성분석 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-2_advanced-text-mining_sentiment-analysis.ipynb)_  
+  > _W09-2. 감성분석 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-2_advanced-text-mining_sentiment-analysis.ipynb)_  
   
 #### WEEK 10. 텍스트 분석 방법론 2
 - 텍스트 유사도와 군집화
 - 토픽모델링
 - 실습  
-  > _TBU_  
-
+  > _W10-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_10/W10-1_advanced-text-mining_text-clustering.ipynb)_  
+  
 #### WEEK 11. 텍스트 분석 방법론 3
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
@@ -144,9 +144,10 @@
 
 ---
 ## Update History
+> 2020.11.08. WEEK 04\~10 강의자료 및 실습자료 업로드  
 > 2020.09.20. WEEK 03 강의자료 및 실습자료 업로드  
 > 2020.09.12. 목차 구성 수정, WEEK 02 실습자료 업로드  
-> 2020.09.06. 목차 구성 수정, WEEK 01\~2 강의자료, WEEK 01 실습자료 업로드  
+> 2020.09.06. 목차 구성 수정, WEEK 01\~02 강의자료, WEEK 01 실습자료 업로드  
 > 2020.07.05. 목차 구성 수정  
 > 2020.06.07. 목차 구성 수정  
 > 2020.05.24. 목차 구성 수정  
