@@ -47,7 +47,6 @@
 #### WEEK 04. 텍스트 데이터 수집 2
 - 웹 스크래핑 자동화 및 실전 활용법
 - 텍스트 데이터 핸들링
-- 과제: 텀프로젝트 기획서 제출
 - 실습  
   > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글 [(Jupyter)](https://github.com/fingeredman/advanced-text-mining/blob/master/practice-note/week_04/W04-1_advanced-text-mining_python-crawling-practice-2.ipynb)_  
   > _W04-2. 동적페이지 수집하기: 인스타그램 해시태그 [(Jupyter)](https://github.com/fingeredman/advanced-text-mining/blob/master/practice-note/week_04/W04-2_advanced-text-mining_python-crawling-practice-3.ipynb)_    
@@ -99,23 +98,24 @@
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _TBU_  
+  > _W11-1. 뉴스기사 요약하기: 추출요약 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_11/W11-1_advanced-text-mining_text-summerization.ipynb)_  
+  > _W11-2. 키워드 추출 모델 학습하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_11/W11-2_advanced-text-mining_kea.ipynb)_  
 
 #### WEEK 12. 텍스트 데이터를 활용한 예측 모델링
 - 예측 모델링을 위한 자질추출
 - 텍스트 분류문제를 예측에 활용하는 방법
 - 실습  
-  > _TBU_  
+  > _W12-1. 개봉직후 영화리뷰를 활용해 최종 관객수 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_12/W12-1_advanced-text-mining_python-movie-viewer-prediction.ipynb)_  
   
 #### WEEK 13. 머신러닝/딥러닝 기반 대화 모델링
 - Question & Answering
 - Chat-bot: 질의응답부터 일상대화 까지
+- 카카오 i 오픈빌더 설치 가이드
 - 실습  
-  > _TBU_  
+  > 카카오 i 오픈빌더를 활용해 Q/A 챗봇 구축하기  
   
 #### WEEK 14. 비즈니스를 위한 텍스트 분석
-- 실습  
-  > _TBU_  
+- 텍스트 분석을 활용한 연구/실무 케이스 스터디
   
 #### WEEK 15. 텀프로젝트 그룹 발표 1
 - 과제: 텀프로젝트 
@@ -124,14 +124,16 @@
   > _2조 : TBU_  
   > _3조 : TBU_  
   > _4조 : TBU_  
+  > _5조 : TBU_  
   
 #### WEEK 16. 텀프로젝트 그룹 발표 2
 - 과제: 텀프로젝트 
 - 발표주제  
-  > _5조 : TBU_  
   > _6조 : TBU_  
   > _7조 : TBU_  
   > _8조 : TBU_  
+  > _9조 : TBU_  
+  > _10조 : TBU_  
   
 ---
 ## References
@@ -144,6 +146,7 @@
 
 ---
 ## Update History
+> 2020.11.28. `WEEK 11~12` 강의자료 및 실습자료 업로드  
 > 2020.11.08. `WEEK 04~10` 강의자료 및 실습자료 업로드  
 > 2020.09.20. `WEEK 03` 강의자료 및 실습자료 업로드  
 > 2020.09.12. 목차 구성 수정, `WEEK 02` 실습자료 업로드  
