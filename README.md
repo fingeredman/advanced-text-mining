@@ -10,6 +10,7 @@
 
 ---
 ## Notice!
+> - 강의자료 및 실습자료가 2021년 10주차 과정으로 개편되어 업로드되며, 지난 강의자료는 `curriculum` 폴더에서 확인 가능합니다.
 > - 본 자료는 2019년 부터 연세대학교 텍스트 마이닝(비정형 데이터 분석) 강의자료로 활용되고 있습니다.
 
 ---
@@ -40,102 +41,58 @@
 - 웹 스크래핑 기초
 - 머신러닝 기초
 - 실습  
-  > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-1_advanced-text-mining_python-crawling-intro.ipynb)_  
-  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-2_advanced-text-mining_python-crawling-practice-1.ipynb)_  
+  > _W03-1. 데이터 크롤링 원리 이해하기_  
+  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글_  
   
 #### WEEK 04. 텍스트 데이터 수집 2
 - 웹 스크래핑 자동화 및 실전 활용법
 - 텍스트 데이터 핸들링
 - 실습  
-  > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글 [(Jupyter)](https://github.com/fingeredman/advanced-text-mining/blob/master/practice-note/week_04/W04-1_advanced-text-mining_python-crawling-practice-2.ipynb)_  
-  > _W04-2. 동적페이지 수집하기: 인스타그램 해시태그 [(Jupyter)](https://github.com/fingeredman/advanced-text-mining/blob/master/practice-note/week_04/W04-2_advanced-text-mining_python-crawling-practice-3.ipynb)_    
+  > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글_  
+  > _W04-2. 동적페이지 수집하기: 인스타그램 해시태그_    
   
 #### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
 - KoNLPy & NLTK & TEANAPS
 - 실습  
-  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-1_advanced-text-mining_python-korean-nlp.ipynb)_  
-  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-2_advanced-text-mining_python-english-nlp.ipynb)_  
-  > _W05-3. 개체명인식 수행하기: TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-3_advanced-text-mining_python-ner.ipynb)_
+  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS_  
+  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS_  
+  > _W05-3. 개체명인식 수행하기: TEANAPS NER_
 
 #### WEEK 06. 단어의 가중치를 표현하는 방법
 - 단어빈도와 TF-IDF
 - 단어 네트워크와 중심성
 - 실습  
-  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-1_advanced-text-mining_python-tf-idf.ipynb)_  
-  > _W06-2. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-2_advanced-text-mining_python-co-word.ipynb)_  
+  > _W06-1. 단어빈도와 TF-IDF 계산하기_  
+  > _W06-2. 동시출현빈도 계산과 단어 네트워크 생성하기_  
   
-#### WEEK 07. 문서를 벡터로 표현하는 방법
-- 단어 단위 임베딩
-- 문장/문서 단위 임베딩
-- 실습  
-  > _W07-1. TEANAPS를 활용해 데이터 시각화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_07/W07-1_advanced-text-mining_python-visualization.ipynb)_  
-  > _W07-2. 단어 임베딩 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_07/W07-2_advanced-text-mining_python-w2v.ipynb) [(Model Download)](https://drive.google.com/file/d/1qBMDr-WSMt-OG1IO2CXeqVqodKGYIxr2/view?usp=sharing)_  
-
-#### WEEK 08. 텍스트 분석을 위한 딥러닝
-- 시퀀스 모델링: 시퀀스 레이블링(CRF), RNN, LSTM
-- 언어 모델링: Seq2Seq, Transformer 네트워크
-- 과제: 보고서
-- 실습  
-  > _W08-1. TEANAPS 자연어처리 API 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_08/W08-1_advanced-text-mining_teanaps-nlp-api.ipynb)_  
-  > _W08-2. TEANAPS를 활용한 자연어처리 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_08/W08-2_advanced-text-mining_pre-processing.ipynb)_  
-  
-#### WEEK 09. 텍스트 분석 방법론 1
+#### WEEK 07. 텍스트 분석 방법론 1
 - CNN, RNN을 활용한 텍스트 데이터 분류
 - Transformer 모델 기반 텍스트 감성분석
 - 실습  
-  > _W09-1. 문장의 의도 분류하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-1_advanced-text-mining_text-classification.ipynb)_  
-  > _W09-2. 감성분석 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-2_advanced-text-mining_sentiment-analysis.ipynb)_  
+  > _W07-1. 문장의 의도 분류하기_  
+  > _W07-2. 감성분석 활용하기_  
   
-#### WEEK 10. 텍스트 분석 방법론 2
+#### WEEK 08. 텍스트 분석 방법론 2
 - 텍스트 유사도와 군집화
 - 토픽모델링
 - 실습  
-  > _W10-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_10/W10-1_advanced-text-mining_text-clustering.ipynb)_  
+  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기_  
   
-#### WEEK 11. 텍스트 분석 방법론 3
+#### WEEK 09. 텍스트 분석 방법론 3
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _W11-1. 뉴스기사 요약하기: 추출요약 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_11/W11-1_advanced-text-mining_text-summerization.ipynb)_  
-  > _W11-2. 키워드 추출 모델 학습하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_11/W11-2_advanced-text-mining_kea.ipynb)_  
+  > _W11-1. 뉴스기사 요약하기: 추출요약_  
+  > _W11-2. 키워드 추출 모델 학습하기_  
 
-#### WEEK 12. 텍스트 데이터를 활용한 예측 모델링
-- 예측 모델링을 위한 자질추출
-- 텍스트 분류문제를 예측에 활용하는 방법
-- 실습  
-  > _W12-1. 개봉직후 영화리뷰를 활용해 최종 관객수 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_12/W12-1_advanced-text-mining_python-movie-viewer-prediction.ipynb)_  
-  
-#### WEEK 13. 머신러닝/딥러닝 기반 대화 모델링
+#### WEEK 10. 머신러닝/딥러닝 기반 대화 모델링
 - Question & Answering
 - Chat-bot: 질의응답부터 일상대화 까지
 - 카카오 i 오픈빌더 
 - 실습  
   > _W13-1. 카카오 i 오픈빌더를 활용해 Q/A 챗봇 구축하기_  
 
-#### WEEK 14. 비즈니스를 위한 텍스트 분석
-- 텍스트 분석을 활용한 연구/실무 케이스 스터디
-  
-#### WEEK 15. 텀프로젝트 그룹 발표 1 (`20 가을학기)
-- 과제: 텀프로젝트 
-- 발표주제  
-  > _08조 :  CNN-Attention for Subject Classification of Tweets_  
-  > _10조 : 텍스트마이닝 기법과 ARIMA 모델을 활용한 '배달의 민족' 앱 리뷰 주제 분류 및 이상치 탐지_  
-  > _05조 : 도서 베스트셀러 예측 모델링_  
-  > _12조 :  코로나-19로 인한 심리방역 현황 및 향후 대응방안을 위한 제언_  
-  > _09조 :  뱅샐과 토스의 사용자는 무슨 생각을 할까?_  
-  > _02조 :   재테크 관련 소셜데이터 분석을 통한 사회 초년생의 금융 생활 분석_  
-
-#### WEEK 16. 텀프로젝트 그룹 발표 2 (`20 가을학기)
-- 과제: 텀프로젝트 
-- 발표주제  
-  > _11조 : 플랫폼 별 콘텐츠 댓글 소비 행태 비교_  
-  > _07조 : Exploring the mechanism of aging through Literature-based discovery(LBD)_  
-  > _04조 : 소비자 리뷰와 휴대폰 판매량 간의 비교연구_  
-  > _06조 : 웹툰 아마추어 작가의 게시글 분석_  
-  > _01조 : 인플루언서의 인플루언서를 찾아서_  
-  > _03조 : 토픽모델링 & 감성분석을 통한 간편걸제 앱 서비스 비교분석: Big-bank vs. Big-tech 중심으로_  
-  
 ---
 ## References
 > 본 강의자료는 아래 문헌들을 참고해 구성되었습니다.
@@ -147,6 +104,7 @@
 
 ---
 ## Update History
+> 2021.03.07. 2021 커리큘럼   
 > 2020.12.26. `WEEK 13` 강의자료 업로드  
 > 2020.11.28. `WEEK 11~12` 강의자료 및 실습자료 업로드  
 > 2020.11.08. `WEEK 04~10` 강의자료 및 실습자료 업로드  
