@@ -29,7 +29,7 @@
 #### WEEK 02. 텍스트 마이닝 사례연구
 - 텍스트 마이닝 연구/실무 적용사례
 - 텍스트 데이터를 위한 Python 프로그래밍
-- 실습 
+- 실습  
   > _W02-1. 텍스트 데이터를 다루기 위한 Python: 기본문법 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_02/W02-1_text-mining-for-practice_python-basic.ipynb)_  
   > _W02-2. 텍스트 데이터를 다루기 위한 Python: 자료구조 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_02/W02-2_text-mining-for-practice_python-data-structure.ipynb)_  
   > _W02-3. 텍스트 데이터를 다루기 위한 Python: 반복문과 조건문 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_02/W02-3_text-mining-for-practice_python-conditional%26loop.ipynb)_  
