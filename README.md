@@ -10,7 +10,7 @@
 
 ---
 ## Notice!
-> - 강의자료 및 실습자료가 2021년 10주차 과정으로 개편되어 업로드되며, 지난 강의자료는 [`curriculum`](./curriculum/advanced-text-mining-2020/advanced-text-mining_curriculum.md)에서 확인 가능합니다.
+> - 강의자료 및 실습자료가 2021년 10주차 과정으로 개편되어 업로드되며, 지난 강의자료는 [`curriculum`](./curriculum/advanced-text-mining-2020/advanced-text-mining_curriculum.md#curriculum-advanced-text-mining)에서 확인 가능합니다.
 > - 본 자료는 2019년 부터 연세대학교 텍스트 마이닝(비정형 데이터 분석) 강의자료로 활용되고 있습니다.
 
 ---
