@@ -24,7 +24,7 @@
 - 머신러닝/딥러닝을 활용한 텍스트 마이닝
 - Python 3.7 & Jupyter Notebook
 - 실습  
-  > _W01-1. 실습환경: Python 3.7 & Jupyter Notebook & Google Colaboratory [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_01/W01-1_advanced-text-mining_colaboratory.ipynb)_  
+  > _W01-1. 실습환경: Python 3.x & Jupyter Notebook & Google Colaboratory [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_01/W01-1_advanced-text-mining_colaboratory.ipynb)_  
 
 #### WEEK 02. 텍스트 마이닝 사례연구
 - 텍스트 마이닝 연구/실무 적용사례
