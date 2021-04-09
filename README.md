@@ -49,22 +49,22 @@
 - 텍스트 데이터 핸들링
 - 실습  
   > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글_  
-  > _W04-2. 동적페이지 수집하기: 인스타그램 해시태그_    
+  > _W04-2. 동적페이지 수집하기: Apple 앱스토어 _    
   
 #### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
 - KoNLPy & NLTK & TEANAPS
 - 실습  
-  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS_  
-  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS_  
-  > _W05-3. 개체명인식 수행하기: TEANAPS NER_
+  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-1_advanced-text-mining_python-korean-nlp.ipynb)_  
+  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-2_advanced-text-mining_python-english-nlp.ipynb)_  
+  > _W05-3. 개체명인식 수행하기: TEANAPS NER [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-3_advanced-text-mining_python-ner.ipynb)_  
 
 #### WEEK 06. 단어의 가중치를 표현하는 방법
 - 단어빈도와 TF-IDF
-- 단어 네트워크와 중심성
+- 동시출현빈도와 
 - 실습  
-  > _W06-1. 단어빈도와 TF-IDF 계산하기_  
-  > _W06-2. 동시출현빈도 계산과 단어 네트워크 생성하기_  
+  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-1_advanced-text-mining_python-tf-idf.ipynb)_  
+  > _W06-2. 동시출현빈도 계산: 연관어 분석 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-2_advanced-text-mining_python-co-word.ipynb)_  
   
 #### WEEK 07. 텍스트 분석 방법론 1
 - CNN, RNN을 활용한 텍스트 데이터 분류
@@ -104,6 +104,7 @@
 
 ---
 ## Update History
+> 2021.04.010. `WEEK 06` 강의자료 및 실습자료 업데이트  
 > 2021.04.03. `WEEK 05` 강의자료 및 실습자료 업데이트  
 > 2021.03.28. `WEEK 04` 실습자료 업데이트  
 > 2021.03.14. `WEEK 01~03` 강의자료 및 실습자료 업데이트  
