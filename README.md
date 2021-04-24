@@ -70,15 +70,14 @@
 - CNN, RNN을 활용한 텍스트 데이터 분류
 - Transformer 모델 기반 텍스트 감성분석
 - 실습  
-  > _W07-1. 문장의 의도 분류하기_  
-  > _W07-2. 감성분석 활용하기_  
+  > _W07-1. 문장 의도분류 및 감성분석 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_07/W07-1_advanced-text-mining_text-classification.ipynb)_  
   
 #### WEEK 08. 텍스트 분석 방법론 2
 - 텍스트 유사도와 군집화
 - 토픽모델링
 - 실습  
-  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기_  
-  
+  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_08/W10-1_advanced-text-mining_text-clustering.ipynb)_  
+
 #### WEEK 09. 텍스트 분석 방법론 3
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
@@ -104,7 +103,8 @@
 
 ---
 ## Update History
-> 2021.04.010. `WEEK 06` 강의자료 및 실습자료 업데이트  
+> 2021.04.25. `WEEK 07~08` 강의자료 및 실습자료 업데이트  
+> 2021.04.01. `WEEK 06` 강의자료 및 실습자료 업데이트  
 > 2021.04.03. `WEEK 05` 강의자료 및 실습자료 업데이트  
 > 2021.03.28. `WEEK 04` 실습자료 업데이트  
 > 2021.03.14. `WEEK 01~03` 강의자료 및 실습자료 업데이트  
