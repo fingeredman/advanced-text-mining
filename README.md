@@ -82,15 +82,14 @@
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _W11-1. 뉴스기사 요약하기: 추출요약_  
-  > _W11-2. 키워드 추출 모델 학습하기_  
+  > _W09-1. 뉴스기사 요약과 키워드 추출 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-1_advanced-text-mining_text-summerization.ipynb)_  
 
 #### WEEK 10. 머신러닝/딥러닝 기반 대화 모델링
 - Question & Answering
 - Chat-bot: 질의응답부터 일상대화 까지
 - 카카오 i 오픈빌더 
 - 실습  
-  > _W13-1. 카카오 i 오픈빌더를 활용해 Q/A 챗봇 구축하기_  
+  > _W10-1. 카카오 i 오픈빌더를 활용해 Q/A 챗봇 구축하기_  
 
 ---
 ## References
@@ -103,6 +102,7 @@
 
 ---
 ## Update History
+> 2021.05.08. `WEEK 09` 강의자료 및 실습자료 업데이트  
 > 2021.04.25. `WEEK 07~08` 강의자료 및 실습자료 업데이트  
 > 2021.04.01. `WEEK 06` 강의자료 및 실습자료 업데이트  
 > 2021.04.03. `WEEK 05` 강의자료 및 실습자료 업데이트  
