@@ -10,7 +10,8 @@
 
 ---
 ## Notice!
-> - 강의자료 및 실습자료가 2021년 10주차 과정으로 개편되어 업로드되며, 지난 강의자료는 [`curriculum`](./curriculum/advanced-text-mining-2020/advanced-text-mining_curriculum.md#curriculum-advanced-text-mining)에서 확인 가능합니다.
+> - 2021년 9월 부터 수정된 커리큘럽으로 자료가 재업로드됩니다. 기존자료가 필요하신 분은 관리자 이메일로 요청 바랍니다.  
+(***Contact : admin@teanaps.com***)
 > - 본 자료는 2019년 부터 연세대학교 텍스트 마이닝(비정형 데이터 분석) 강의자료로 활용되고 있습니다.
 
 ---
@@ -38,15 +39,14 @@
 
 #### WEEK 03. 텍스트 데이터 수집 1
 - 텍스트 데이터 유형 및 수집방법
-- 웹 스크래핑 기초
-- 머신러닝 기초
+- 웹 스크래핑 기초와 정적 웹페이지 수집
 - 실습  
-  > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-1_advanced-text-mining_python-crawling-intro.ipynb)_  
-  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-2_advanced-text-mining_python-crawling-practice-1.ipynb)_   
+  > _W03-1. 데이터 크롤링 원리 이해하기_  
+  > _W03-2. 정적페이지 수집하기: 네이버 영화댓글_   
   
 #### WEEK 04. 텍스트 데이터 수집 2
+- 동적 웹페이지 수집
 - 웹 스크래핑 자동화 및 실전 활용법
-- 텍스트 데이터 핸들링
 - 실습  
   > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글_  
   > _W04-2. 동적페이지 수집하기: Apple 앱스토어 _    
@@ -55,41 +55,67 @@
 - 형태소분석과 개체명인식
 - KoNLPy & NLTK & TEANAPS
 - 실습  
-  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-1_advanced-text-mining_python-korean-nlp.ipynb)_  
-  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-2_advanced-text-mining_python-english-nlp.ipynb)_  
-  > _W05-3. 개체명인식 수행하기: TEANAPS NER [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_05/W05-3_advanced-text-mining_python-ner.ipynb)_  
+  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS_  
+  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS_  
+  > _W05-3. 개체명인식 수행하기: TEANAPS NER_  
 
 #### WEEK 06. 단어의 가중치를 표현하는 방법
 - 단어빈도와 TF-IDF
-- 동시출현빈도와 
+- 단어 가중치를 활용한 문서 표현 방법
 - 실습  
-  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-1_advanced-text-mining_python-tf-idf.ipynb)_  
-  > _W06-2. 동시출현빈도 계산: 연관어 분석 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_06/W06-2_advanced-text-mining_python-co-word.ipynb)_  
+  > _W06-1. 단어빈도와 TF-IDF 계산하기_  
+  > _W06-2. 동시출현빈도 계산하기: 연관어 분석_  
   
-#### WEEK 07. 텍스트 분석 방법론 1
+#### WEEK 07. 문서를 벡터로 표현하는 방법
+- Word2Vec: 단어 단위 임베딩 
+- Doc2Vec: 문서 단위 임베딩
+- 실습  
+  > _W07-1. 위키피디아 문서 임베딩_  
+  
+#### WEEK 08. 텍스트 분석을 위한 머신러닝/딥러닝
+- 머신러닝 기초
+- 순차 레이블링: MM, HMM, CRF
+- 언어 모델링: Seq2Seq, Transformer
+  
+#### WEEK 09. 텍스트 분석 방법론 1
 - CNN, RNN을 활용한 텍스트 데이터 분류
 - Transformer 모델 기반 텍스트 감성분석
 - 실습  
-  > _W07-1. 문장 의도분류 및 감성분석 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_07/W07-1_advanced-text-mining_text-classification.ipynb)_  
+  > _W07-1. 문장 의도분류 및 감성분석 수행하기_  
   
-#### WEEK 08. 텍스트 분석 방법론 2
+#### WEEK 10. 텍스트 분석 방법론 2
 - 텍스트 유사도와 군집화
 - 토픽모델링
 - 실습  
-  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_08/W10-1_advanced-text-mining_text-clustering.ipynb)_  
+  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기_  
 
-#### WEEK 09. 텍스트 분석 방법론 3
+#### WEEK 11. 텍스트 분석 방법론 3
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _W09-1. 뉴스기사 요약과 키워드 추출 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_09/W09-1_advanced-text-mining_text-summerization.ipynb)_  
+  > _W09-1. 뉴스기사 요약과 키워드 추출하기_  
 
-#### WEEK 10. 머신러닝/딥러닝 기반 대화 모델링
+#### WEEK 12. 텍스트 분석 방법론 4
+- 그래프 기초이론과 네트워크 분석 
+- 단어 네트워크와 중심성
+- 실습  
+  > _W10-1. 단어 네트워크 중심성 계산하기_  
+
+#### WEEK 13. 머신러닝/딥러닝 기반 대화 모델링
 - Question & Answering
 - Chat-bot: 질의응답부터 일상대화 까지
 - 카카오 i 오픈빌더 
 - 실습  
   > _W10-1. 카카오 i 오픈빌더를 활용해 Q/A 챗봇 구축하기_  
+
+#### WEEK 14. 텍스트 마이닝 활용
+- 비즈니스를 위한 텍스트 분석
+- 텍스트 마이닝을 활용한 연구방법론
+
+#### WEEK 15. 텀프로젝트 발표
+- 팀별 텀프로젝트 발표
+- 발표주제  
+  > _TBU_  
 
 ---
 ## References
@@ -102,13 +128,14 @@
 
 ---
 ## Update History
+> 2021.09.04. 2021 하반기 커리큘럼 업데이트, `WEEK 01~02` 강의자료 및 실습자료 업데이트     
 > 2021.05.08. `WEEK 09` 강의자료 및 실습자료 업데이트  
 > 2021.04.25. `WEEK 07~08` 강의자료 및 실습자료 업데이트  
 > 2021.04.01. `WEEK 06` 강의자료 및 실습자료 업데이트  
 > 2021.04.03. `WEEK 05` 강의자료 및 실습자료 업데이트  
 > 2021.03.28. `WEEK 04` 실습자료 업데이트  
 > 2021.03.14. `WEEK 01~03` 강의자료 및 실습자료 업데이트  
-> 2021.03.07. 2021 커리큘럼 업데이트   
+> 2021.03.07. 2021 상반기 커리큘럼 업데이트   
 > 2020.12.26. `WEEK 13` 강의자료 업로드  
 > 2020.11.28. `WEEK 11~12` 강의자료 및 실습자료 업로드  
 > 2020.11.08. `WEEK 04~10` 강의자료 및 실습자료 업로드  
