@@ -41,8 +41,8 @@
 - 텍스트 데이터 유형 및 수집방법
 - 웹 스크래핑 기초와 정적 웹페이지 수집
 - 실습  
-  > _W03-1. 데이터 크롤링 원리 이해하기_  
-  > _W03-2. 정적페이지 수집하기: 네이버 영화댓글_   
+  > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-1_advanced-text-mining_python-crawling-intro.ipynb)_  
+  > _W03-2. 정적페이지 수집하기: 네이버 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/advanced-text-mining/blob/master/practice-note/week_03/W03-2_advanced-text-mining_python-crawling-practice-1.ipynb)_  
   
 #### WEEK 04. 텍스트 데이터 수집 2
 - 동적 웹페이지 수집
@@ -128,6 +128,7 @@
 
 ---
 ## Update History
+> 2021.09.11. `WEEK 03` 강의자료 및 실습자료 업데이트     
 > 2021.09.04. 2021 하반기 커리큘럼 업데이트, `WEEK 01~02` 강의자료 및 실습자료 업데이트     
 > 2021.05.08. `WEEK 09` 강의자료 및 실습자료 업데이트  
 > 2021.04.25. `WEEK 07~08` 강의자료 및 실습자료 업데이트  
